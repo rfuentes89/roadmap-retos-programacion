@@ -1,0 +1,24 @@
+# Web oficial de python: https://python.org
+
+# Comentario de una linea en Python
+
+'''
+Comentario multilinea
+en Python
+'''
+"""
+Otra forma de escribir comentarios 
+de varias lineas
+"""
+
+variable = "esta cadena es el valor de la variable"
+
+CONSTANTE = "valor que no cambia"
+
+#Tipos de datos primitivos en python
+entero = 5
+float = 3.2
+cadena = "texto"
+bool = True
+
+print("¡Hola, Python!")
