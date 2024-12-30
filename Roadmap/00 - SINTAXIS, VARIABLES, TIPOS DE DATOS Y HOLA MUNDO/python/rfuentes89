@@ -1,0 +1,23 @@
+# Web oficial de python: https://python.org
+
+#Asi se comenta en un linea
+
+""" 
+Asi se comenta en 
+multiples lineas
+"""
+
+'''Asi tambien se comenta en 
+multiples lineas'''
+
+variable = 10 
+
+CONSTANTE = "este valor no cambia"
+
+#tipos de datos primitivos en python
+entero = 5
+flotante = 2.3
+booleno = True
+cadena = "Esto es un texto"
+
+print("¡Hola, Python!")
